@@ -1,7 +1,10 @@
 # SocialWorld
 Frontend social media website built with React and Sass. Icons used from Material UI
+
+
 Register Page
 ![image](https://user-images.githubusercontent.com/55329336/215322648-c581d075-5d38-4456-bea6-57884822a663.png)
+
 
 Login Page
 ![image](https://user-images.githubusercontent.com/55329336/215322670-d4cf9cb5-a922-4cb2-a35b-02b69ece5c2c.png)
@@ -14,6 +17,10 @@ Dark Mode
 
 Home Page with posts
 ![image](https://user-images.githubusercontent.com/55329336/215322480-e9e60473-7954-4140-92c4-356993376df0.png)
+
+Comments
+![image](https://user-images.githubusercontent.com/55329336/215322923-4c3cf03a-8dd7-4515-b13d-295811efd9eb.png)
+
 
 Profile
 ![image](https://user-images.githubusercontent.com/55329336/215322703-e04f7d66-9cc5-4c4f-ac0a-3492fa37930d.png)
